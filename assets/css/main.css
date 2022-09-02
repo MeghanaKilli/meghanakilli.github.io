@@ -3423,6 +3423,7 @@ input, select, textarea {
 		}
 
 		#banner h1 {
+			color: #ffffff;
 			font-size: 2.5em;
 		}
 
@@ -3474,6 +3475,7 @@ input, select, textarea {
 				}
 
 				#banner > .inner .content p {
+					color: #ffffff;
 					font-size: 1.25em;
 					font-weight: 600;
 					letter-spacing: 0.025em;
