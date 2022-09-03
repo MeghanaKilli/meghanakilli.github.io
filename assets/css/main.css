@@ -3450,7 +3450,7 @@ input, select, textarea {
 				}
 
 					#banner > .inner header > :first-child:after {
-						background-color: #ffffff;
+						background-color: #000000;/*used to be ffffff*/
 						max-width: 100%;
 					}
 
