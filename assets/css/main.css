@@ -3450,8 +3450,8 @@ input, select, textarea {
 				}
 
 					#banner > .inner header > :first-child:after {
-						background-color: #000000;/*used to be ffffff*/
-						max-width: 100%;
+						background-color: #000000;/*controls the horizontal line in the banner*/
+						max-width: 70%;
 					}
 
 			#banner > .inner .content {
