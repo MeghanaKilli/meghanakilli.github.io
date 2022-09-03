@@ -3467,12 +3467,12 @@ input, select, textarea {
 			}
 
 				#banner > .inner .content > * {
-					margin-right: 1.5em;
+					margin-right: 2em;/* used to be 1.5 */
 					margin-bottom: 0;
 				}
 
 				#banner > .inner .content > :last-child {
-					margin-right: 0;
+					margin-right: 1em; /* used to be 0 */
 				}
 
 				#banner > .inner .content p {
