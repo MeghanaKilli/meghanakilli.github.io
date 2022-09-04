@@ -3147,7 +3147,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: rgba(95, 50, 112, 0.5);
+				color: rgba(95, 50, 112); /*color of logo inside the white box*/
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3155,11 +3155,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #9bf1ff;
+				background-color: #9bf1ff; /*color of logo when mouse hovers over it*/
 			}
 
 			#header .logo:active strong {
-				background-color: rgba(95, 50, 112, 0.5);
+				background-color: #9bf1ff; /*color of logo after it's been clicked*/
 			}
 
 		#header nav {
