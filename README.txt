@@ -1,4 +1,5 @@
-My first website!
+Astronomy Website
+Author: Meghana Killi
 
 Credits:
 	Forty by HTML5 UP
